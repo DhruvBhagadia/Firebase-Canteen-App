@@ -18,4 +18,4 @@ A web-app made for quantiphi HTTP & Firebase workshop's 6hr hackathon challenge.
 
 
 #### 5. Notification
-![Screenshot from 2019-06-08 15-48-38](https://user-images.githubusercontent.com/32220881/59145971-dcc85a00-8a08-11e9-861b-1c081e34459a.png)
+![Screenshot from 2019-06-08 16-30-21](https://user-images.githubusercontent.com/32220881/59146358-cb804d00-8a0a-11e9-9c42-3242b6df1c03.png)
